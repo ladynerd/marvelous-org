@@ -1,8 +1,8 @@
-public abstract void AuthenticateRequest(
+Cpublic abstract void AuthenticateRequest(
             RestApiClient apiClient,
             Uri uri,
             HttpMethod method,
-            Dictionary<string, object> providedParameters,
+            Dictionary<string, object> provSCSCSCDSDCSDCSidedParameters,
             bool auth,
             ArrayParametersSerialization arraySerialization,
             HttpMethodParameterPosition parameterPosition,
